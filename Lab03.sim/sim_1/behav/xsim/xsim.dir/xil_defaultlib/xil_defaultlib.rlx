@@ -1,0 +1,23 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+D:/ComputerCode/Verilog/Semester04/Lab02/Lab02.srcs/sources_1/new/clk_div.v,1652075551,verilog,,D:/ComputerCode/Verilog/Semester04/Lab03/Lab03.srcs/sources_1/new/controller.v,,clk_div,,,,,,,,
+D:/ComputerCode/Verilog/Semester04/Lab03/Lab03.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,
+D:/ComputerCode/Verilog/Semester04/Lab03/Lab03.srcs/sim_1/new/pc_sim.v,1652334453,verilog,,,,pc_sim,,,,,,,,
+D:/ComputerCode/Verilog/Semester04/Lab03/Lab03.srcs/sim_1/new/test_bench.v,1652345417,verilog,,,,test_bench,,,,,,,,
+D:/ComputerCode/Verilog/Semester04/Lab03/Lab03.srcs/sources_1/ip/data_mem/sim/data_mem.v,1652332245,verilog,,D:/ComputerCode/Verilog/Semester04/Lab03/Lab03.srcs/sources_1/ip/inst_mem/sim/inst_mem.v,,data_mem,,,,,,,,
+D:/ComputerCode/Verilog/Semester04/Lab03/Lab03.srcs/sources_1/ip/inst_mem/sim/inst_mem.v,1652315710,verilog,,D:/ComputerCode/Verilog/Semester04/Lab03/Lab03.srcs/sources_1/new/adder.v,,inst_mem,,,,,,,,
+D:/ComputerCode/Verilog/Semester04/Lab03/Lab03.srcs/sources_1/new/adder.v,1652314777,verilog,,D:/ComputerCode/Verilog/Semester04/Lab03/Lab03.srcs/sources_1/new/alu.v,,adder,,,,,,,,
+D:/ComputerCode/Verilog/Semester04/Lab03/Lab03.srcs/sources_1/new/alu.v,1652341059,verilog,,D:/ComputerCode/Verilog/Semester04/Lab03/Lab03.srcs/sources_1/new/aludec.v,,alu,,,,,,,,
+D:/ComputerCode/Verilog/Semester04/Lab03/Lab03.srcs/sources_1/new/aludec.v,1652286453,verilog,,D:/ComputerCode/Verilog/Semester04/Lab02/Lab02.srcs/sources_1/new/clk_div.v,,aludec,,,,,,,,
+D:/ComputerCode/Verilog/Semester04/Lab03/Lab03.srcs/sources_1/new/controller.v,1652314759,verilog,,D:/ComputerCode/Verilog/Semester04/Lab03/Lab03.srcs/sources_1/new/datapath.v,,controller,,,,,,,,
+D:/ComputerCode/Verilog/Semester04/Lab03/Lab03.srcs/sources_1/new/datapath.v,1652345161,verilog,,D:/ComputerCode/Verilog/Semester04/Lab03/Lab03.srcs/sources_1/new/maindec.v,,datapath,,,,,,,,
+D:/ComputerCode/Verilog/Semester04/Lab03/Lab03.srcs/sources_1/new/maindec.v,1652286462,verilog,,D:/ComputerCode/Verilog/Semester04/Lab03/Lab03.srcs/sources_1/new/mips.v,,maindec,,,,,,,,
+D:/ComputerCode/Verilog/Semester04/Lab03/Lab03.srcs/sources_1/new/mips.v,1652344293,verilog,,D:/ComputerCode/Verilog/Semester04/Lab03/Lab03.srcs/sources_1/new/mux2.v,,mips,,,,,,,,
+D:/ComputerCode/Verilog/Semester04/Lab03/Lab03.srcs/sources_1/new/mux2.v,1652427528,verilog,,D:/ComputerCode/Verilog/Semester04/Lab03/Lab03.srcs/sources_1/new/pc.v,,mux2,,,,,,,,
+D:/ComputerCode/Verilog/Semester04/Lab03/Lab03.srcs/sources_1/new/pc.v,1652316957,verilog,,D:/ComputerCode/Verilog/Semester04/Lab03/Lab03.srcs/sources_1/new/regfile.v,,pc,,,,,,,,
+D:/ComputerCode/Verilog/Semester04/Lab03/Lab03.srcs/sources_1/new/regfile.v,1652340296,verilog,,D:/ComputerCode/Verilog/Semester04/Lab03/Lab03.srcs/sources_1/new/sl2.v,,regfile,,,,,,,,
+D:/ComputerCode/Verilog/Semester04/Lab03/Lab03.srcs/sources_1/new/signext.v,1652315419,verilog,,D:/ComputerCode/Verilog/Semester04/Lab03/Lab03.srcs/sources_1/new/sl2.v,,signext,,,,,,,,
+D:/ComputerCode/Verilog/Semester04/Lab03/Lab03.srcs/sources_1/new/sl2.v,1652315372,verilog,,D:/ComputerCode/Verilog/Semester04/Lab03/Lab03.srcs/sources_1/new/top.v,,sl2,,,,,,,,
+D:/ComputerCode/Verilog/Semester04/Lab03/Lab03.srcs/sources_1/new/top.v,1652542656,verilog,,D:/ComputerCode/Verilog/Semester04/Lab03/Lab03.srcs/sim_1/new/test_bench.v,,top,,,,,,,,
